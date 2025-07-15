@@ -2,13 +2,5 @@
 This is the repository for Building and web deploying applications using Flask.
 
 
-## 📦 Project Structure
-
-project-directory/
-│
-├── server.py
-├── Maths/
-│ ├── init.py
-│ └── mathematics.py
-├── templates/
-│ └── index.html
+📦 Project Structure
+<pre> <code> project-directory/ │ ├── server.py ├── Maths/ │ ├── __init__.py │ └── mathematics.py ├── templates/ │ └── index.html </code> </pre>
