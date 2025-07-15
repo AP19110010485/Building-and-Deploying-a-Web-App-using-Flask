@@ -1,8 +1,8 @@
 # Building and Deploying a Web App using Flask
 This is the repository for Building and web deploying applications using Flask.
 
-
-"""project-directory/
+```
+project-directory/
 │
 ├── Maths/                         # 📦 Custom math package
 │   ├── __init__.py               # Initializes the Maths package
@@ -14,5 +14,4 @@ This is the repository for Building and web deploying applications using Flask.
 ├── server.py                     # 🚀 Flask web server that handles routes and links to the Maths package
 ├── README.md                     # 📘 Project documentation
 └── requirements.txt              # 📄 Python dependencies (Flask)
-
-"""
+```
